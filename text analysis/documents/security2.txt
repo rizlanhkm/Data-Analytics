@@ -1,0 +1,69 @@
+Earlier this month, the Securities and Exchange Commission posted on the social media network X that it had finally approved a long-awaited bitcoin exchange-traded fund. The price of the cryptocurrency immediately spiked, but there was one problem: The SEC hadn’t actually approved the measure.  
+
+The SEC’s X post was in fact the work of a fraudster, and the agency’s social media account had been hacked, the regulatory body said in a subsequent statement. 
+
+The incident has spotlighted the power that comes with controlling a government social media profile, and in the SEC’s case, it was all too easy to hijack of an account with the ability to move markets. The hijacker did so using a sim-swapping attack and took advantage of the fact that the SEC had disabled multifactor authentication.  
+
+Multifactor authentication is the kind of basic cybersecurity hygiene that security professionals have been promoting for years. The SEC’s failure to implement this simple but effective security measure raises an equally simple question: Are federal agencies required to use multifactor authentication for their social media accounts?
+
+It’s a straightforward question that would seem to lend itself to a straightforward answer, but instead reveals a tangled web of authorities and rules. In the wake of this most recent breach, it’s unclear whether the SEC — or another other federal agency — is formally required to deploy MFA on their social media. 
+
+Scoop News Group asked federal agencies, the Office of Management and Budget, and the Cybersecurity and Infrastructure Security Agency what current rules are in place. Former White House cybersecurity officials, cybersecurity policy lawyers, congressional staffers and federal identity experts were also asked what security measures apply to government social media accounts — none could offer a definitive answer and some were wary about going on the record due to that uncertainty.
+
+Outside experts emphasized that protections like multifactor authentication and other phishing-resistant security measures are so fundamental to modern cybersecurity that agencies shouldn’t need to have a mandate in place to do it. At the same time, according to these experts, the SEC X account hijacking indicates more clarity may be needed from the White House or Congress on baseline security expectations for social media accounts.
+
+Multiple approaches to multifactor
+
+A review of how the federal government approaches cybersecurity for social media accounts finds that while many agencies say they are utilizing two-factor or multifactor authentication and other protections, they cite a variety of authorities and reasons for doing so. 
+
+This review reflects Scoop News Group inquiries to the 24 agencies covered by the Chief Financial Officers Act, as well as agencies like the Office of the Comptroller of the Currency and the Consumer Financial Protection Bureau. Meanwhile, the two agencies responsible for setting security policy for civilian federal agencies — OMB and CISA — did not answer questions about whether multifactor authentication for social media is covered by existing mandates, such as the Biden administration’s 2021 cybersecurity executive order or past OMB memos.  
+
+It’s important to note that different agencies have vastly different needs for social media. While the Nuclear Regulatory Commission maintains just a handful of accounts, agencies like the State Department, which has offices all over the world, and NASA, which produces science content, deploy far more. 
+
+But federal agencies appear to have no unified approach in securing their social media accounts: 
+
+The Environmental Protection Agency said it uses a third-party social media management tool that’s integrated with a single sign-on system that depends on a personal identity verification card or Login.gov, the government’s new authentication service.
+The Department of Energy said that it uses MFA on its account and added that it “encourages its offices and National Laboratories to do the same on the accounts they maintain.” The agency said that before elements of the agency open new social media accounts, they need to “stipulate the security measures they take” and must use two-factor authentication.
+The Department of Justice said it communicates with its DOJ social media managers about best practices, including MFA.
+The CFPB said it employs multifactor authentication when available. 
+The stakes for securing social media accounts are high and potentially widespread, as there are hundreds of federal agency social media accounts, according to the U.S. Digital Registry, a government-run platform where agencies register those accounts. 
+
+Yet some agencies appear to have only recently required MFA. The Department of Labor said that it only implemented multifactor authentication last year after a policy change issued by the agency’s assistant secretary for administration and management. Tim Gorman, a spokesperson for the Defense Department, said that the agency’s assistant director for public affairs sent guidance in April 2023 that required the use of multifactor authentication on social media accounts and pointed to specific services. 
+
+For others, the SEC breach served as a wake-up call. “In response to the recent SEC breach, NASA reminded communicators of social media security measures,” Jennifer Dooren, the space agency’s deputy news chief, said in an email. The agency requires MFA on its social media, Dooren said, adding: “the guidance provided to admins of official NASA accounts underscores the importance of this practice.”
+
+Some agencies did point to overarching federal policy when asked about their social media security policies. The Education Department cited the president’s executive order on improving the nation’s cybersecurity in support of MFA, and, specifically a line “establishing multifactor, risk-based authentication and conditional access across the enterprise.” 
+
+Publicly available social media policies of agencies also reveal divergent approaches. Social media policies at the State Department and Commerce Department mention MFA but cite different documents, or no documents at all, in support of that requirement. Policies at other agencies don’t mention multifactor authentication — including at the SEC, the General Services Administration and the National Science Foundation. 
+
+Several agencies did not respond to comment or declined to comment on their commitment to MFA on social media accounts, including the Transportation Department, the Department of Agriculture and the Commerce Department.
+
+It’s not clear what security practices the SEC — which is an independent agency often exempt from rules and regulations that govern other civilian agencies — was employing or required on its account when it was breached. 
+
+In its Jan. 22 statement, the SEC said it did have MFA enabled prior to July 2023 but asked X’s support team to disable the feature due to account access issues. A social media policy from 2019 that was obtained by the watchdog group GovernmentAttic states that the SEC’s general counsel and information technology office are supposed to ensure social media accounts comply with security and legal requirements. A 2017 SEC privacy impact assessment notes that a primary account manager within the SEC’s public affairs office is supposed to provide “technical guidance to individual account holders” and ensure “that the account is regularly monitored for security issues.” 
+
+Neither document explicitly cites MFA — and the SEC did not respond to questions about whether the documents have been updated since they were issued. 
+
+A tangled policy landscape
+
+In theory, requiring federal agencies to secure their social media accounts should be a simple matter. Existing cybersecurity regulations might already address this issue, but both experts and policymakers can’t seem to agree on whether that’s actually the case.  
+
+An OMB memo issued in 2022 requires agencies to implement a “zero trust” security architecture mandated by a 2021 Biden administration executive order on cybersecurity. The memo states that federal agencies “must use strong MFA throughout their enterprise,” implement phishing-resistant authentication for staff, contractors and partners and enforce MFA “at the application layer, instead of the network layer.”
+
+Some experts argue that the executive order and the OMB’s guidance should require federal agencies to use multifactor authentication. Jeremy Grant, who served as program lead for the White House National Strategy for Trusted Identities in Cyberspace in the Obama administration, said that while he is not aware of any specific mandates around the implementation of multifactor authentication for social media accounts, the OMB memo’s security requirements should capture third-party applications such as X.
+
+“It’s pretty clear you should be securing all your enterprise systems with not just MFA but phishing-resistant authentication,” said Grant, now a managing director of technology business strategy at Venable. “I think where there’s confusion or ambiguity is the question of, where do your enterprise systems stop?”
+
+The wide range of authorities cited by federal agencies regarding security measures for social media platforms points toward a lack of clarity about what rules apply. And at least one former White House cybersecurity official believes OMB and CISA may ultimately lack the authority to regulate how civilian agencies secure their social media accounts. 
+
+Grant Schneider, the federal chief information security officer and senior director of cybersecurity on the National Security Council during the Trump administration, said that much of the authority those agencies have over civilian federal cybersecurity policy derives from FISMA, a law originally passed in 2002 and updated in 2014. 
+
+Because that law is focused on “federal information and federal information systems,” when an agency is using a social media platform that is not housing or processing federal data, “I’m not convinced that OMB or CISA, at least under FISMA, has the authority to direct how agencies secure those accounts,” Schneider said. 
+
+Confusion about whether the OMB’s zero trust rules require multifactor authentication is shared across government. In a letter to the SEC following the breach, Sens. Ron Wyden, D-Ore., and Cynthia Lummis, R-Wyo., expressed the view that “the OMB policy only applies to agency-hosted systems, and not social media websites.”
+
+Alex Howard, a long-time digital government transparency advocate, told Scoop News Group that federal policy for social media accounts should be crystal clear to both the public and agencies. Government accounts, as well as personal accounts for high-level officials, “should have the level of security that is commensurate with the impact they would have if compromised.”
+
+Meanwhile, the two agencies with the broadest view and authority over federal civilian security policy have not provided clear answers regarding what power they have to mandate multifactor authentication.
+
+Scoop News Group submitted questions to CISA’s public affairs office asking if the cybersecurity executive order or any other federal mandates compelled agencies to use multifactor authentication for social media accounts. CISA spokesperson Antonio Soliz responded with a two-sentence statement that it described as “general policy” and not related to the SEC X account incident.
