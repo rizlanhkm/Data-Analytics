@@ -1,0 +1,33 @@
+Social media platforms serve as a means for users to stay connected with friends, engage with customers, and market businesses. However, a place with such a large information volume cannot be safe from manipulations or even outright phishing. Let’s peek at the most notorious examples of threats to infosec you can meet on social networks.
+
+Risk of social engineering attacks.
+Criminals are aware that individuals are likely to share personal information. Therefore they exploit public profiles to extract valuable data that can be utilized for advanced social engineering assaults.
+
+It’s essential to consider employees’ personal social media accounts as they can impact business security. Cybercriminals can use any post made on a social media profile linked to the business to compromise the company’s systems and data. The information is usually publicly visible when a digital profile is created. The more information an individual shares on their profile, the higher the risk of falling victim to cybercrime.
+
+Cybercriminals often exploit social media users by creating fake accounts to deceive them into providing personal information, access credentials, or downloading malicious software through links. It’s important to stay vigilant and cautious while using social network to avoid falling victim to such scams.
+
+Oversharing
+Individuals who frequently post personal information on social networking sites can threaten businesses. Their actions can not only put themselves at risk by sharing confidential information, such as travel plans, business data, or patient information but also provide cybercriminals with a plethora of information they can exploit in various ways. The posts only can threaten the information security of the individual or a company. Though it is only a peak of the iceberg.
+
+Whaling attacks involve gathering valuable information to target high-level executives and persuade them to perform a secondary action, such as transferring funds.
+Spear phishing attempts are more targeted and accurate than typical phishing attempts. They focus on individuals and use specific details like current news and relevant financial documents.
+Spoofing occurs when a cybercriminal pretends to be someone or something else to gain access to private information.
+
+Social media connections can create a cybersecurity risk. User activity, including likes, shares, and comments, can reveal valuable information about relationships that cybercriminals can exploit for fraudulent activities like phishing, spoofing, and impersonation.
+
+Unsecured Portable Devices
+Mobile devices are obviously the prevalent way of accessing social media. Modern security measures implemented on both mobile devices and in social network create an impression of secureness, but it is in fact just a misconception. The key there is accessing the ones phone, laptop or another device – and then you get everything. Thing is, people often rely exclusively on biometric identification, hoping that no one will try to pick the password that remains as a backup access method if something goes wrong. And – you guessed it right – they leave some of the easiest passwords to pick, like “1111” or “1234”, making it a piece of cake for hackers. This makes social media a nightmare to information security.
+
+After such a lockpicking game, those who access the device can access whatever info in social media. This is even more efficient than using spyware/stealer malware, which cannot dump conversations in most messengers. By accessing the chats, criminals can gather not just your sensitive data but also your schedule and the schedules of other people, your company’s internal affairs, and the like. If it is not a dream of a hacker who collects data about the target – so what is?
+
+HOW TO REDUCE CYBER RISKS USING SOCIAL MEDIA
+In today’s world, businesses must have an online presence, including at least one social media platform. Social network has become necessary for building trust, increasing visibility, receiving customer reviews, conducting research, making comparisons, and facilitating direct communication with customers. The good news is that businesses can take steps to reduce the cyber risks associated with social network.
+
+Social Media Access Control
+Limiting the number of people accessing social media accounts is essential as it reduces the potential attack surface. Identifying, containing, and mitigating the damage becomes more manageable in a data breach. Assigning one person to oversee the business’s social network accounts is advisable to minimize security risks.
+Social Media Policy Implementation
+It is essential for every member of an organization, including those in leadership positions, to have access to a well-defined social media policy. This policy should outline how to safeguard sensitive and confidential information and what actions are strictly prohibited.
+Anti-Malware Implementation
+When dealing with unverified mobile devices, addressing security vulnerabilities can be difficult. Therefore, it is crucial that social media training emphasizes the significance of having antivirus and anti-malware software on all portable devices to safeguard against cyber attacks. This software can mitigate or resolve security threats, protecting users and their organizations.
+The rise of social media has changed how we communicate and exchange information, but it has also brought about new dangers and obstacles concerning privacy and security. It is crucial to be aware of what we share on social network and who has access to it, as well as to take measures to safeguard our data and keep ourselves informed about privacy concerns and security risks. By following recommended guidelines for using social media, such as reviewing privacy policies, modifying privacy settings, and being alert to fraudulent schemes and phishing attacks, we can reap the benefits of social media while mitigating the potential risks.

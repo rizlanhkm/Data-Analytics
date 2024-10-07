@@ -1,0 +1,41 @@
+Top executives recognize the significance of social data and insights in interpreting consumer behavior, predicting trends and making informed decisions. Social data goes beyond mere numbers but produces actual, tangible business results. Incorporating social insights into every aspect of a company is critical for trendspotting, competitor analysis, and achieving proactive crisis management.
+
+In a report by The Harris Poll on the 2023 State of Social Media, the most pertinent business priorities in today’s economic environment include:
+
+Building brand reputation and loyalty
+Gaining a deeper understanding of customers
+Improving competitive positioning
+Moving forward with reduced budgets and predicting future trends.
+Leveraging data from social media can enhance each of these by enabling brands to stay ahead during increasingly competitive conditions. Even taking it a step beyond performance data, social insights can shed light on industry, competitive and cultural findings that may uncover necessary tools to allow a brand to stand out in a saturated market.
+
+Here are three examples of businesses that extracted critical data and insights from social media and successfully put them into action, driving real results.
+
+How Plaid uses social data to hone in on brand perception
+San Francisco-based fintech company Plaid allows consumers to connect their financial accounts to their favorite apps and services without compromising safety and security. The brand’s success hinged on a lot of stakeholder education – for both consumers and financial institutions, neither of which were familiar with the technology behind the product.
+
+Because social media plays such a key role in managing Plaid’s brand perception, they set out to empower their followers with useful, informative content so they can act as ambassadors on behalf of Plaid and help increase the brand’s reach.
+
+Using Sprout Social, a social media management and intelligence platform, Plaid implemented tools like tagging into their social strategy that created a data-driven feedback loop, supporting sharper messaging and raising brand awareness and reputation. “If something isn’t working well, we can dig in to understand why and recalibrate our strategy to make sure we’re providing our diverse audiences with access to the information they want, in the way they want to consume it,” said Matthew McConnel, Plaid’s social media lead.
+
+By analyzing both performance data and brand health insights through social media, businesses can better understand what resonates with their audience. This is something especially helpful for marketers working in complex and highly regulated industries, as social data can be used to humanize a brand and establish its reputation.
+
+How Hudl relies on social data to inform customer service needs
+Seasonality is something many brands face, regardless of their industry. However, seasonality in customer service can create major challenges for brands as they have to decide to either increase staffing spending or compromise on their customer experience. This was a problem that Hudl, a software company offering performance analysis tools for sports teams and athletes, was unfortunately all too familiar with.
+
+That is, until Hudl invested in an SMM platform, arming them with the means and insights to help combat customer service seasonality.
+
+Jessie Koenig, revenue systems administrator at Hudl, shared that through Sprout Social, they now have predictive data on customer service inquiry volumes through their social channels. “We don’t train every rep to handle social media work. And in the past, it was very difficult for us to forecast our staffing. The reports we generate from Sprout allow us to gauge when we need to ramp up social support and when it’s best to guide customers to self-service support and tutorials.”
+
+As a result of capturing this social data, Hudl implemented these findings across their customer service strategy, ensuring year-round quality care, which helped increase customer satisfaction and loyalty while still managing their costs efficiently.
+
+How Goally leveraged social listening insights to better understand their customers
+Goally is a technology company built to help ease the lives of families with neurodiverse individuals. As such, the brand needs to be able to stay in lockstep with the families they support.
+
+By leveraging Sprout Social’s listening functionality, Goally gained visibility into the larger conversations relevant to their industry and even uncovered the common needs of their core audience. One such thing is that parents raising neurodiverse children want to see their children become independent.
+
+“That learning has validated our vision as a company,” said Kaelyn Brooks, digital marketing specialist at Goally. “We know the problem we’re chasing is real, and we’re providing a solution—a really good one, too. Education is often lacking in the world of neurodiversity, and people don’t know where to get information. Social media channels like TikTok offer a unique and accessible way for people to ask authentic questions and get answers.”
+
+By practicing social listening, brands can expand their perspective and tune into the broader social discussions occurring within their industry, among competitors, and most significantly, among target audiences.
+
+Conclusion
+Social as a channel can impart so much beyond clicks, likes and shares. It allows companies to extract meaningful insights and data that can be implemented into their strategy and positively influence multiple different areas of a business. With the right tools and know-how, you can join these forward-thinking companies and make better business decisions by leveraging social data.
